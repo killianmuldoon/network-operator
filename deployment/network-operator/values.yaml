@@ -450,7 +450,7 @@ docaTelemetryService:
   deploy: false
   image: doca_telemetry
   repository: nvcr.io/nvidia/doca
-  version: 1.16.5-doca2.6.0-host
+  version: 1.16.11-doca2.7.0-host
   # imagePullSecrets: []
   # containerResources:
   #   - name: "doca-telemetry-service"
